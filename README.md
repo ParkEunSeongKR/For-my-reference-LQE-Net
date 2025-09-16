@@ -6,6 +6,6 @@
 
 * **[KCI에서 논문 보기](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003162331)**
 
-* 이 저장소는 나중에 내가 까먹을 까봐 한 것입니다,
+## 
 
-
+이 저장소는 나중에 내가 까먹을 까봐 한 것입니다,
