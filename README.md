@@ -4,27 +4,8 @@
 
 ## 🔗 논문 링크 (Link to Paper)
 
-* **[KCI에서 논문 보기](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/sereArtiView.kci?sereArticleSearchBean.artld=ART003162331)**
+* **[KCI에서 논문 보기](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003162331)**
 
-## 👨‍💻 저자 (Authors)
+* 이 저장소는 나중에 내가 까먹을 까봐 한 것입니다,
 
-* 이규범 /Kyu Bum Lee 1
-* 김재은 /Jae Eun Kim 2
-* 박은성 /Eun Seong Park 3 
-* 고혁수 /Hyeog Soo Ko 4
-* 김성진 /Sung Jin Kim 5
 
-1제주한라대학교
-
-2제주한라대학교
-
-3제주한라대학교
-
-4(주)아인스에스엔씨
-
-5제주한라대학교
-  
-
-## 🚀 저의 역할 및 기여 (My Role & Contribution)
-
-이 프로젝트에서 저는 다음과 같은 역할을 담당했습니다.
