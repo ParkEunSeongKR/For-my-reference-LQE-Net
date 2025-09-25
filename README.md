@@ -1,3 +1,10 @@
+🏋️‍♂️ AI Posture Coach (실시간 자세 교정 AI 코치)
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3.7+-blue.svg" alt="Python Version">
+<img src="https://img.shields.io/badge/OpenCV-4.x-green.svg" alt="OpenCV Version">
+<img src="https://img.shields.io/badge/MediaPipe-0.8+-orange.svg" alt="MediaPipe Version">
+<img src="https://img.shields.io/badge/license-MIT-lightgrey.svg" alt="License">
+</p>
 # [개인 기록용] LQE-Net 프로젝트 아카이브 (2024)
 
 > **목적:** 이 저장소는 2024년에 진행한 프로젝트고, 잊지 않기 위해 작성하는 개인적인 공간입니다.
